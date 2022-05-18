@@ -19,7 +19,7 @@ public class TestCase1 {
 	@Test
 	public void test3() {
 		System.out.println("Test3");
-		
+		//adding third comment from git
 	}
 	
 	@Test
