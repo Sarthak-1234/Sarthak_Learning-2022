@@ -12,6 +12,7 @@ public class TestCase1 {
 	@Test
 	public void test2() {
 		System.out.println("Test2");
+		//Added through eclipse
 	}
 	
 	@Test
