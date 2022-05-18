@@ -25,6 +25,7 @@ public class TestCase1 {
 	@Test
 	public void test4() {
 		System.out.println("Test4");
+		//adding fourth comment
 	}
 
 }
